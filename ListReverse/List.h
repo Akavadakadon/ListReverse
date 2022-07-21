@@ -2,6 +2,10 @@
 #include <stddef.h>
 #include <iostream>
 
+//
+// https://github.com/Akavadakadon/ListReverse
+//
+
 struct ListNode {
 	int val;
 	ListNode* next;
